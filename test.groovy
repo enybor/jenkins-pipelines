@@ -1,4 +1,4 @@
 node('agent') {
-    stage ("Hello world") {
+    stage ("Hello hell!") {
     }
 }
